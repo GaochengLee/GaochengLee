@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+There is nothing special in my repository, I'm still looking for someone I'm interested in.
+
 <!--
 **GaochengLee/GaochengLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
