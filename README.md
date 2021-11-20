@@ -1,6 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
-There is nothing special in my repository, I'm still looking for someone I'm interested in.
+<img align="right" herf="https://github.com/GaochengLee" src="https://github-readme-stats.vercel.app/api?username=GaochengLee&show_icons=true&theme=onedark"/>
+<!-- Thans for Anurag's GitHub stats -->
+
+There is nothing special in my repository, I'm still looking for something open source project I'm interested in.
+
+And mostly I will put some useful script in my reporitory.
 
 <!--
 **GaochengLee/GaochengLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
